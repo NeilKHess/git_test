@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<meta lang="en" charset="UTF-8">
+<Head>
+    <Title>Shopping List</Title>
+    <body>
+        <h1>Shopping List</h1>
+        <ul>
+            <li>Pizza</li>
+            <li>Avocado</li>
+            <li>Tomatoes</li>
+            <li>Ice Cream</li>
+            <li>Beef Jerky</li>
+            <li>Orange Soda</li>
+            <li>Cookies</li>
+        </ul>
+        <h1>To Do List</h1>
+        <ol>
+            <li>Take a shower</li>
+            <li>Get Wyatt's Breakfast</li>
+            <li>Fill up the car with gas</li>
+            <li>Make lesson plans</li>
+            <li>IEP Meeting for Billy</li>
+            <li>Get guacamole on the way home</li>
+            <li>Make Dinner</li>
+
+        </ol>
+        <h1>Places to Visit</h1>
+        <ul>
+            <li>Rome</li>
+            <li>Israel</li>
+            <li>Fiji</li>
+            <li>Australia</li>
+            <li>Moscow</li>
+            
+        </ul>
+        <h1>My 5 Favorite Video Games</h1>
+        <ol>
+            <li>Mass Effect Series</li>
+            <li>Chrono Trigger</li>
+            <li>Civilization 5</li>
+            <li>Supreme Commander: Forged Alliance</li>
+            <li>The Division</li>
+            
+        </ol>
+    </body>
+</Head>
+
+</html>
